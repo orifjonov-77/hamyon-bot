@@ -1,0 +1,7 @@
+# Git ignores
+.env
+hamyon.db
+__pycache__/
+*.pyc
+venv/
+.venv/
